@@ -1,0 +1,14 @@
+{
+  "name": "wrapped-aryacoin",
+  "version": "1.0.0",
+  "description": "Wrapped Aryacoin Token based on ERC20 Standard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aryacoin Team",
+  "license": "ISC",
+  "dependencies": {
+    "truffle": "^5.11.5"
+  }
+}
